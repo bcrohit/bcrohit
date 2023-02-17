@@ -1,5 +1,5 @@
 <h1 align="center">Namaskara 🙏, I'm Rohit!</h1>
-<h3 align="center">Hi there! I'm Rohit BC, a data science student from Bengaluru. I love using Python and machine learning to analyze data and draw insights. Check out my repositories to see my latest projects and feel free to collaborate with me!</h3>
+<h3 align="left">Hi there! I'm Rohit BC, a data science student from Bengaluru. I love using Python and machine learning to analyze data and draw insights. Check out my repositories to see my latest projects and feel free to collaborate with me!</h3>
 
 - 🌱 I’m currently learning **NLP, Big Data Frameworks**
 
