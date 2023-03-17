@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Blender, Machine Learning, Python**
 
-- 📫 Get in touch! **gowdarohith2003@gmail.com**
+- 📫 Get in touch! [Mail Me](mailto:gowdarohith2003@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
